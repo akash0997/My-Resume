@@ -1,2 +1,2 @@
 # My-Resume
-index.html
+https://akash0997.github.io/My-Resume/
